@@ -5,7 +5,14 @@ you can see my project klik [link](https://brik-test-fe-iaq3qwbymq-uc.a.run.app/
 ```link
 https://brik-test-fe-iaq3qwbymq-uc.a.run.app/
 ```
+ input this page login
+```json
+{
+    "email" : "admin@gmail.com",
+    "password" : "123456"
+}
 
+```
 
 ## Setup API
 
